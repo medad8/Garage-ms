@@ -1,5 +1,5 @@
 body {
-    background-color: #00695c;
+    background-color: black;
     font-family: 'Playball', cursive;
     background-size: cover;
     overflow-x: hidden;
@@ -62,7 +62,7 @@ p {
 
 footer {
     text-align: center;
-    background-color: #2BBBAD;
+    background-color: #82918f;
     background-size: cover;
 }
 
