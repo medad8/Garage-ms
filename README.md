@@ -9,12 +9,12 @@ A garage system where one can log in choose the garage branch (location), choose
 </table>
 
 ## Demo
-Here is a working live demo :  ####
+Here is a working live demo :  https://medad8.github.io/Garage-ms/
 
 ## Mobile support
 The Garage-system-group is compatible with devices of all sizes and all OS's, and consistent improvements are being made.
 
-## [Usage](####)
+## [Usage](https://medad8.github.io/Garage-ms/)
 ### Development
 
 Want to contribute? Awesome!
